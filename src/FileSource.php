@@ -4,6 +4,7 @@ namespace iio\libmergepdf;
 
 use setasign\Fpdi\PdfParser\StreamReader;
 
+
 /**
  * Pdf source from file
  */
