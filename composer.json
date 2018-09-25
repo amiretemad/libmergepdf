@@ -1,5 +1,5 @@
 {
-    "name": "iio/libmergepdf",
+    "name": "orbis/libmergepdf",
     "description": "Library for merging multiple PDFs",
     "keywords": ["pdf", "merge", "concatenate"],
     "homepage": "https://github.com/hanneskod/libmergepdf",
