@@ -2,7 +2,7 @@
     "name": "orbis/libmergepdf",
     "description": "Library for merging multiple PDFs",
     "keywords": ["pdf", "merge", "concatenate"],
-    "homepage": "https://github.com/hanneskod/libmergepdf",
+    "homepage": "https://github.com/amiretemad/libmergepdf",
     "type": "library",
     "license": "WTFPL",
     "authors": [
