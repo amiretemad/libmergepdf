@@ -154,7 +154,7 @@ class Merger
                 $this->reset();
             }
 
-            return $fpdi->Output('', 'S');
+            return $fpdi->Output('D', 'S');
 
         } catch (\Exception $e) {
             throw new Exception("'{$e->getMessage()}' in '{$name}'", 0, $e);
