@@ -5,6 +5,7 @@ namespace iio\libmergepdf;
 /**
  * Parse page numbers from string
  */
+
 class Pages implements \IteratorAggregate
 {
     /**
