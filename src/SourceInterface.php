@@ -9,24 +9,24 @@ use setasign\Fpdi\PdfParser\StreamReader;
  */
 interface SourceInterface
 {
-    /**
-     * Get name of file or source
-     *
-     * @return string
-     */
-    public function getName();
-
-    /**
-     * Get strom pf pdf content
-     *
-     * @return StreamReader
-     */
-    public function getStreamReader();
-
-    /**
-     * Get pages to fetch from source
-     *
-     * @return Pages
-     */
-    public function getPages();
+  /**
+   * Get name of file or source
+   *
+   * @return string
+   */
+  public function getName();
+  
+  /**
+   * Get strom pf pdf content
+   *
+   * @return StreamReader
+   */
+  public function getStreamReader();
+  
+  /**
+   * Get pages to fetch from source
+   *
+   * @return Pages
+   */
+  public function getPages();
 }
